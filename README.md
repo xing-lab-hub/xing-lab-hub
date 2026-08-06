@@ -1,7 +1,7 @@
 # Hi there, I'm Xing! 👋
 
 ### 🛠️ Tech Stack & Learning Focus
-- **Languages:** Python (Intermediate)
+- **Languages:** Python (Basic)
 - **Tools:** Git, GitHub, VS Code
 - **Modern Workflow:** Generative AI for Code Assistance (Prompting, Refactoring, Debugging)
 
